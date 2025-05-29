@@ -61,7 +61,7 @@ aplicacao-jpa-ejb-mvc/
 1. **Clonar o repositório**
 
    ```bash
-   git clone https://github.com/seu-usuario/aplicacao-jpa-ejb-mvc.git
+   git clone https://github.com/professorRaphael/aplicacao-jpa-ejb-mvc.git
    cd aplicacao-jpa-ejb-mvc
    ```
 
@@ -108,6 +108,4 @@ Abra uma *issue* ou envie *pull requests* para melhorar este exemplo e ajudar ou
 
 ---
 
-**Professor Raphael Mauricio Sanches de Jesus**
-Universidade Estácio de Sá
-Curso: Padrões de Projetos de Software com Java
+**Professor Raphael Mauricio Sanches de Jesus** - Universidade Estácio de Sá - Curso: Padrões de Projetos de Software com Java
